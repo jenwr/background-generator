@@ -15,3 +15,11 @@ git status
 
 Start a new work session with: 
 git pull // to obtain any updates made by team members.
+
+Regarding branches...
+Best practice means working on a branch rather than the authority files in master. 
+git branch // indicates all existing branches. 
+git branch newbranchname // creates a new branch by the name of newbranchname
+git checkout newbranchname // reserves this branch space to this user only. 
+
+
