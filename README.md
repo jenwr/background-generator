@@ -22,4 +22,4 @@ git branch // indicates all existing branches.
 git branch newbranchname // creates a new branch by the name of newbranchname
 git checkout newbranchname // reserves this branch space to this user only. 
 
-
+See lecture 144 on git and github for more about conflicts. 
