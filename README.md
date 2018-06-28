@@ -12,3 +12,6 @@ git push // the coder sends or pushes the committed files to the github reposito
 
 Along the way monitor the changes with: 
 git status
+
+Start a new work session with: 
+git pull // to obtain any updates made by team members.
